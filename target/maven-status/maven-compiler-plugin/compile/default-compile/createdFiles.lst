@@ -1,0 +1,8 @@
+com\ram\MessageConsumerApp.class
+com\ram\MessageProducerApp.class
+com\ram\producer\MessageSender$1.class
+com\ram\config\AppConfig.class
+com\ram\producer\MessageSender.class
+com\ram\receiver\MessageReceiver.class
+com\ram\config\MessagingConfiguration.class
+com\ram\model\Product.class
